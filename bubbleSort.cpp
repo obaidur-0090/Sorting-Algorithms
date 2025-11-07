@@ -41,6 +41,5 @@ int main() {
     int arr[n]; 
     inputArray(arr, n);
     bubbleSort(arr, n);
-
     return 0;
 }
